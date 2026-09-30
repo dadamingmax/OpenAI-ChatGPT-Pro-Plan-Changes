@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9704e761-e66f-4e3c-8a64-5ca24d3e2e12" />
 
 # OpenAI 重构 ChatGPT Pro:价格没涨,但 200 美元档额度直接砍半
 
